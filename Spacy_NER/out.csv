@@ -1,0 +1,1080 @@
+text
+Union with Null
+"Commands getting cancelled, spark mssqlconnector failing"
+Jobs failing with 'File already exists'
+Facing import issue in job
+Command stucks when submitted
+Update to 10.4 LTS
+Job is stuck
+The execution of this command did not finish successfully
+Two runs and one one just took 2 mins and others took 4h
+ARR | AirCanada | We need explanation why init script or job dependent libraries are recommended for ModuleNotFound error
+ARR Air Canada - Jobs randomly failing with module not found. 
+High Concurrency Cluster in Prod did not Terminate for 2 weeks
+Job stuck in running state
+ARR | SevA | 2205300040003430 | Databricks jobs are failing after DBR upgrade in PROD
+Gapply Collect (executor issues) 
+2205240040004222 | ARR | Jobs are running slow than the previous runs
+Pipelines are failing with an error
+ARR | Citrix | Need help change the cluster owner | SR:2205250060000952
+Cluster Terminating
+Unable to access Jobs API 2.1 - 401 Access Denied
+Job processes hangs after a while at an unknown time and does not move forward. 
+unpinned clusters disappearing after library installation in E2 workspace
+The run of a repo notebook is taking 8 minutes to process each cell
+Notebook submitting unwanted Jobs to cluster
+Outage May 25
+ARR | 2205270030000850 - slowness in job
+"Limit increase: ""The quota for the number of jobs has been reached"""
+Job runs slower than expected. There are no logs to investigate | ARR SR# 2205260040002506 
+"spark.conf.set(""spark.default.parallelism"",90) not working in Notebook"
+updating tags fails.
+"Not able to find clusters,repos and admin access also removed in hub account"
+ RCA for Issue Faced on 05/23/2022 related to VM instance Quota Failure
+"Azure databricks notebook execution duration is extremely long (40+ minutes), and it exceeds the 10 minute trigger window"
+Job cluster launch failure due to instance request limit
+runtime 6.4 support ending by June'22. What is the best way to upgrade with least amount of changes and regression testing? Extension?
+Job failure due to cluster BOOTSTRAP_TIMEOUT
+Outage issue
+"Job fails with ""An error occurred while trying to connect to the Java server (127.0.0.1:35291)"""
+[ARR] cannot see the deletion of clusters in Log Analytics
+Job-cluster is slower than interactive cluster
+ARR | SevA | 2205260040003611 | Backed service unavailable in eastus2 
+ARR | 2205200030001371 | job intermittently failing with unexpected_exception | JNJ
+Cluster terminated.Reason:Storage Download Failure
+Nodes Lost Communication
+ARR s500 | 2205040030001107 | Jobs API issues
+"Sudden cluster termination with error message ""CLOUD_PROVIDER_SHUTDOWN"" | ARR SR# 2205250030000379"
+CSS-ARR-S500-SR#2205250030000489-Long running job
+ARR | 2205250060001495 |  PointsBet | Outage | Unable to start clusters 
+"Job gets stuck on “uploading command"" "
+[ARR][ 2205250030002536][AholdDelhaize]we are unable to see clusters in Prod ADB03 workspace. Getting Backend service unavailable error.
+RND - Production jobs failed with network connectivity issue
+ARR Customer Starbucks: Issue - Intermittent issues during auto scaling.
+ARR Customer Chicago Trading Company: Issue - Unable to Access Clusters. 
+ARR 2205180010001040 - Customer's workspace is slow
+S500 | Highly escalated| job performance degredation 
+Spark image processing very slow
+How to avoid WARNING: skipped 44535 bytes of output in job output
+2205240030000450 | ARR | Error creating cluster
+Cluster terminated.Reason:Self Bootstrap Failure
+Cluster terminated.Reason:Self Bootstrap Failure
+Jobs API downtime ?
+Need to check why the model training for so long and there has a good run for this.
+cannot retrieve driver log
+scheduled job did not get cluster assigned.
+ARR- ATT- Clusters with GPU won't start- 2205200040006767
+2205180050001916 - Missing Library after cluster start
+Notebooks/cluster Detach and Re-attcah issue
+Join takes seemingly forever and eventually aborts
+Ganglia stops working
+2205230030001141 | ARR | Cluster Deleted
+CSS-ARR-2205240030000617-Databricks Spark Job - ExecutorLostFailure (executor 0 exited caused by one of the running tasks) Reason: Remote RPC client disassociated.
+Failed to acquire MySQL lock job-5
+[ARR] [Sev B] SR-2205190010002627 RCA-performance issue for job executing
+ARR- ATT- spark ignoreMissingFiles is not working with single node databricks clusters-2205120040001867  
+Behaviour Difference in Photon
+ARR- ATT- Clusters with GPU won't start- 2205200040006767 
+failed integrity checks
+Same job sometimes runs for ever
+Job marked finished but output not written.  Still 
+Job Cluster Notebooks are not visible to users
+ARR Customer Starbucks: Issue - Problems initiating Cluster Upsize 
+"Intermittent error ""Could not find ADLS Gen2 Token"" when running Jobs with credentials passthrough"
+SR 2205190050002600 - Photon | Spark | There is no space for new record
+driver memory consumption issue
+ARR - Customer getting error on GUI when viewing all purpose cluster
+Daily workflow suddently requiring more resources
+REST API connectivity Issues from ADB Notebook
+CSS-ARR-2205200050001067-Jobs are failing with error 'Caused by: com.databricks.NotebookExecutionException: FAILED'
+Error in jobs: OutOfMemorySparkException 
+Getting Random ExecutorLostFailure
+Job is failing due to Connection pool shut down
+Root cause for slow jobs
+"ARR:Job failed on DBR10.4 LTS, java.io.FileNotFoundException: Operation failed: 'The specified path does not exist.', 404, HEAD:SR205200040003957 "
+ARR 2205200040003030 - Jobs running slow
+Need to run DBInsight forjobs however it always fails
+Job cluster creation is failing due to being unable to fetch secrets
+ARR | Mysql Lock problem | 2205200030001217 
+"GC driver - OOM error, same code with same data volume worked fine previously"
+job cluster were idle for couple of hours
+Cluster Terminating
+ARR- ATT - 2205190040007411 - job is running more than 18 hours
+Jobs of migration are stopped with out rason
+Cluster failure due to bootstrap failure - dbc-1891663a-774f
+Having problem creating or deleting views
+Unable to launch a large cluster
+2205190030000562 | Performance
+Cluster terminated.Reason:Self Bootstrap Failure
+Help me debug a job run that timed out
+[ARR] Ganglia metrics not loaded
+[ARR][Poor Performance of a Cluster]
+ARR | 2205160030000400 | Clusters are not starting | SC 
+ARR|  PointsBet | Job stuck at getting secret | SR: 2205180030000806 
+Lot of Latency in apllying the changes 
+Cluster fails to launch with an error
+Job not accepting resources
+Databricks cluster giving spark exception for pythin packages
+ARR | Some libraries are failing when cluster restarts | 2205170040006180
+ARR | Some libraries are failing when cluster restarts | 2205170040006180
+ARR | Some libraries are failing when cluster restarts | 2205170040006180
+Job appears to be not running for 25+ minutes of execution
+bootstrap timeout for job
+Not able to create a high concurrency cluster
+ARR | 2205160050001904 | Cluster tasks were cancelled
+[ARR][Cluster terminated.Reason:Storage Download Failure]
+ARR| Adobe | Job api 2.1 response schema doesn't match document |SR: 2205180010000639 
+Subscription is not registered for ADB private workspace
+command executions taking longer  or not executing
+Optimize Parallelization on Snowflake I/O and HuggingFace BERT-based model
+[ARR] [Sev C] SR-2205080030000417-Slow performance
+All purpose cluster - Hangs
+Job failing in PROD
+ARR | slow job | 2205160040004016 
+New Job Clusters Are Not Able To Start
+ARR Customer Cummins: Issue -  trying to use import pandas_profiling (pandas-profiling · PyPI) but it is failing 
+2205170030001845 | Cluster CRUD
+Job no longer works; showing Access key or secret key is null
+Job is Stuck 
+[ARR] Very long runtime for the job
+CREATE OR REPLACE TEMPORARY FUNCTION fails
+"Required libraries were not installed when clusters started, causing problems in running jobs on clusters,"
+Job should be failed but still running for more than 1 hour
+[ARR][Cluster not able to spin up]
+3432 - g - ARR - t-mobile - long-running jobs
+Need to see which user deleted a cluster
+Cluster Unable to start after april 13th 9PM-2205160040005458 
+Too Many Jobs 
+Request RCA from a Cluster Creation Failure
+Ganglia UI on customized clusters
+Customer is unable to write streaming data to Event Hub
+Customer is unable to write streaming data to Event Hub
+2205160030001058 - Module not found when triggering jobs through ADF at least
+Jobs API giving error
+Cluster formation during pipeline run.
+ARR | 2205100040004471 | Unexpected failure while waiting for the cluster | JNJ 
+2205120030001569 | ARR | Unable to create cluster.
+[Mooncake][2205090050002395][The cluster does not terminate after the job finished]
+2205130030000118  Cluster is running but 1 containers could not be added.Reason:Cloud provider launch failure
+Cluster terminated - Bootstrap Timeout- 
+ARR | Continuation of 00138590 |Cluster failed due to driver unhealthy error - 2203150040007744
+Unexpected error while creating the cluster for job - INVALID PARAMETER VALUE
+Analytics cluster driver became unresponsive to to GC Errors
+Engineering cluster required restart due to unresponsive notebooks
+Terraform databricks_spark_version returning aarch64 images when graviton off
+2205130030001572 | Cluster CRUD
+Databricks Job failed with MySQL lock job-1 error
+Libraries are not properly uninstalled from cluster
+Driver is not responsive
+job cluster time out
+Job running long time than expected
+2205130030000705 | ARR | Jobs_failing
+ARR| FWD Group Management Holdings Limited | ML job failed |SR:2205130030000496 
+Slow performance observed in a frequently running job on Production
+Job were running slow and few nodes getting skipped
+Job were running slow and few nodes getting skipped
+1920 - g - ARR - american airlines - failing jobs
+"Required libraries were not installed when clusters started, causing problems in running jobs on clusters,- Saved"
+Long running production workflow performance issue
+Detaching notebooks from clusters
+Multiple Jobs Failing For GE Finance DataLake
+ Jobs in Production and QA Databrciks are failing due to timeout error
+Out of memory support 
+AT&T - 2205060040004996 - global-int script failed - RCA
+We can't upgrade to current runtime version 10.x
+Jobs in Production and QA Databrciks are failing due to timeout error
+Job clusters REST API
+ARR | 2205100050002215 | Jobs are failing even after adding dependent libs | GSK
+Job failed due to cluster unavailble
+SparkException - Job Aborted due to stage failure  On running query the command get failed due to SparkException - Job Aborted due to stage failure. The issue is not continuously occurring sometime it occur on same query sometime it doesn't.
+Run result unavailable: job failed with error message 403: Invalid Authorization
+Driver logs on UI are not showing correct creation time
+Remote RPC client disassociated
+For Multiple Clusters We are Recieving the following error - 'Unexpected Failure While Waiting for the Cluster to be Ready' 
+Job failed after 5 hours with timeout
+Dedup Issue
+Connection pool shut down
+Divergency of jobs status
+ARR - 2202250030001786 - NielsenIQ Coke Mastertrack - Cluster failure
+Interactive cluster processes crash during execution (zombie process)
+Be able to sink Spark accumulators to prometheus
+ARR Customer Nestle: Issue -  Time out error - org.apache.spark.SparkException: Environment directory not found at /local_disk0/
+Perform cenrtain check without SPARK Actions
+The instance of the SQL Server Database Engine cannot obtain a LOCK resource at this time
+[ARR] [Sev C] SR-2205080030000417-Slow performance
+Access Control List input not working for Job API
+Can't able to install wheel files in the HC clusters
+0070 - g - ARR - ATT - Streaming job failing on one of 4 pipelines
+Customer running into intermittent failures due to heartbit timed out
+"Bunch of ADF jobs ""Cancelled"" on single day"
+All Workflows (Jobs) fail immediately with an error message
+"workspace access request, HC Cluster is running slowly"
+ARR:2204210040012046 Streaming jobAutoscaling issue
+URGENT - Cluster Failing To Launch
+ARR Customer Rogers INC: Unable to Deploy Clusters 
+No Public Internet access on cluster nodes
+"Spark job is taking more than expected time to run in new clusters AZ-2 and AZ-3, while working as expected in old cluster AZ-1."
+SparkException - Job Aborted due to stage failure
+Quota request for Other Requests - Unable to start the cluster
+Performance improvement on newer DBRs
+Driver is up but is not responsive errors in high concurrency clusters
+CSS-ARR-2205100030000546-Job Aborted/Job Delay during scheduled run
+Scheduled Job - Pass start date as parameter to notebook
+Ganglia Historical metrics snapshots issue
+Multiple Production job failure due to RuntimeException
+ARR- Existing cluster does not sync after job cluster finish- 2204260050002691
+Debug cluster init script
+Autoscaling not working
+Execution taking longer time
+Intermittent errors while upsizing the nodes.
+ARR | getting time out error when jobs are triggered
+Unexpected failure while waiting for the cluster
+Jobs not terminating
+Job failed with cluster termination
+Unable to register a scaler model built on my training data | ARR SR# 2205060030001100
+Not able to start any cluster due to timeout issue
+ARR | GAP | Job cluster with specific pool launch fail with Array Index error. | SR: 2205030010000748  
+using union along with function can sometimes fail
+OCR cluster taking too long to launch after initiating the cluster--2204220040005758 
+OCR cluster taking too long to launch after initiaing the cluster--2204220040005758 
+Job crashed with py4j.Py4JNetworkException error
+Photon out of Memory Issue on the XPOPD Monthly Dag
+Job failure due to cluster error
+ARR - AT&T - 2205030040006573 - Disk expansion with jobs
+Cluster startup errors
+2204220010000657 | Cluster CRUD
+2204220010000657 | Cluster startup
+ARR Customer Cummins - Not able to run Scala scripts on 10.4 LTS
+Connection pool shut down
+Data Lake multiple Hourly Job Failures due to Invalid access token error
+Clusters not coming up: Unexpected launch failure
+2205040030001887 | ARR | Job failure due to 'StreamingQueryException: next on empty iterator'
+Increase input rate for DLT
+"2205050030000380  When the same notebook runs with job cluster, it is not able to parse a particular xml block and returns NULL instead"
+Unable to start cluster
+"Jobs failing with ""Unexpected failure while waiting for the cluster"""
+"Job failed intermittently with ""java.lang.ClassNotFoundException: com.crealytics.spark.excel.DefaultSource"""
+one node in a bad status
+4681 - ARR - American Airlines - Cluster getting bogged by GC
+POST and GET API calls for the custom entity xomuog_well are experiencing long latency issues. The API calls are originating from Microsoft Azure Databricks.  The databricks jobs that used to run in 20 minutes is now taking 18 hours
+"Driver shut down ,while XGBOOST training"
+Jobs can't be scheduled on the 30th or 31st of the month
+4681 - g - ARR - American Airlines - Cluster not shutting down as expected
+POST and GET API calls for the custom entity xomuog_well are experiencing long latency issues. The API calls are originating from Microsoft Azure Databricks.  The databricks jobs that used to run in 20 minutes is now taking 18 hours.
+Cluster not getting terminated even when job is getting completed
+Launch cluster failed on TEST environment 
+Access deleted cluster configuration
+All jobs in dx2 shard fail as Cancelled
+Issue with length of Job ID
+Production ETL job failing due to Connection refused error
+Cluster lost at least one node. Reason: Communication lost
+Job failing with with 'spark cluster stopped unexpectedly' error
+Error while running the existing prod app on 10.4 cluster while its running fine with 6.4
+Cluster bootstrap timeout
+ARR | 2204280040001718 | Cluster node are getting lost | JNJ
+worker cannot be registered to the driver
+Cluster (10.4) shuts off randomly
+many jobs on the Scheduled Jobs cluster failing at the very beginning with 'Canceled' messaged
+The training process is idle 
+[ARR] [Sev B] SR-2205040030001061 DataframeReadError (Reason: worker lost)
+Launch Cluster Failure on PRD
+"Patient 360 - Production Job failure due to exception ""IllegalArgumentException"""
+2204040040006958  Cluster not able to run python notebook cell and struck for 65 hours holding cluster resources
+"Job failure due to exception ""IllegalArgumentException"""
+Multiple Library installation failure on prod cluster
+ POST and GET API calls for the custom entity xomuog_well are experiencing long latency issues. The API calls are originating from Microsoft Azure Databricks.  The databricks jobs that used to run in 20 minutes is now taking 18 hours
+Queries running for a long time after adding spark config
+Job is running slower than usual and is failing with time out
+init script not getting installed while cluster creation using api
+Error encounter in DLT pipeline while drop and recreate 
+Notebook not connecting to pipeline
+Regex for spark version in cluster policy doesn't work as expected
+"ARR - SQL using a CTE that runs fine in Databricks Runtime 9.1 LTS Photon, but gives an error in 10.4 LTS Photon"
+ARR - Ganglia metrics not loading in Linux machine
+Getting access denied when running job in R studio
+CSS-ARR-SR#2205040030000589-Jobs failing due to TCP/IP connection error
+"NBA: Job failed for intermediate pipeline due to ""UnknownHostException"" exception in Databricks"
+Cluster is in terminated state and not available to receive jobs
+Clusters terminates on startup and init script execution because of missing libssl.so
+ARR | Spark DataFrame Checkpoints under Table ACL - continuation of 00142979 - 2204200040005509
+Commands run very 
+Restoring a recently-deleted cluster
+Unable to access the Details Page of the Jobs runs
+Terraform High Concurrency Cluster with Table ACL's on
+Unable to use pretrained models in Spark-NLP
+Can't create jobs with ACL
+Could you please help understand the reason while is stuck
+Transaction Log Integrity Check Failure
+Cluster lost at least one node. Reason: Communication lost
+ Cannot control job creation access.
+Question on DLT charge
+L2 Align XPO PD Monthly dag failure -Photon ran out of memory 
+Job Failure due to skewed data in prod
+Error al cargar tablas en el cluster
+numpy failed to import in notebook
+All-Purpose Cluster Is taking very long to Terminate
+Training Access for LTK Employees
+1920 - g - ARR - AmericanAirlines - Job failure
+"Sometimes, queries use Photon runtime run slower than one without Photon  "
+too much delay between two micro batches
+Need Help with Seperate work Spaces in the same accout?
+Streaming data processing getting stuck after few hours
+2205020030000110  | Production jobs are failing with Argument not found error  |  AholdDelhaize.com
+Cluster startup takes more than 10mins
+ARR | 2204280030000731 - Delta lake ingestion from spark structured streaming is taking more time
+ARR |  T-Mobile USA | Job stuck at CREATE DF | SR: 2205020040000453 
+"Issues while switching to 10.4 LTS Photon enabled cluster, inserting unidentified charachters in delta tables."
+[ARR] [Sev B] SR-2204080030001854 ExecutorLostFailure (executor 15 exited caused by one of the running tasks) Reason: Executor heartbeat timed out after 157195 ms
+Jobs time out (follow up 00138978)
+Job is running from long time
+2204220060002557 - Databricks Notebook taking longer time moveing the data from ADLS to ADLS
+"After updating Cluster policy Spark environment variable, not able to update existing job"
+Trigger.AvailableNow causing significant job delay compared to Trigger.Once
+How does Spark calculate number of tasks/partitions for a query
+ARR- ATT - Job cluster running streaming job fails - 2204290040004745 
+ARR - 2204290040005232 - Servicio De Administración Tributaria - Spark job hung for over 6 hours
+2204270030000780 | Streaming job slowness
+Databricks Job failed due to MySQL Lock
+DLT UI Reverted to Beta Interface
+Workspace access cluster bit filter error
+Unable to launch Multi node Cluster
+Extreme slowness in the ETL jobs.
+Ganglia Historical metrics snapshots issue
+Ganglia Historical metrics snapshots issue
+"many jobs fail with ""AzureCredentialNotFoundException: Could not find ADLS Gen2 Token"""""
+Jobs failing and cluster is being terminated
+Databricks Notebook taking longer time moveing the data from ADLS to ADLS 
+ARR | Serv A | Adobe |Job failed due to OOM | SR: 2204290030000582
+ARDA SANDBOX Cluster is not getting started
+CSS-ARR-2204190030001595_Cluster unable to accquire additional worker nodes in upscaling
+[ARR]TrackingID#2204280040006568]Unable to Start a newly created Cluster
+[ARR]TrackingID#2204280040006568]Unable to Start a newly created Cluster
+"Job getting aborted due to Remote RPC client disassociated. Likely due to containers exceeding thresholds, or network issues. Check driver logs for WARN messages"
+7896 - g - ARR - AlaskaAir - Failed job
+ETL failures
+Inquiry on cluster downtime for changing node type
+Photon Enabled Instances does not support IST timezone
+Written pandas data can not be read outside Databricks
+Facing Jackson Databind version Issue submitting Spark job in us-west-2 workspace
+Cluster startup takes more than 10mins
+"Driver is up but is not responsive, likely due to GC."
+"Not implemented type for Arrow list to pandas: map<string, string> on DBR 9.1 LTS"
+ARR | 2204260030002207 |  Run result unavailable: job failed with error message Unexpected failure while waiting for the cluster (0426-153040-3azvvay4) to be ready.Cause Cluster 0426-153040-3azvvay4 is unusable since the driver is unhealthy
+CSS-ARR-S500-SR#2204280030000558-Unable to read the data from offset for eventhub using spark jobs
+6540 - g - ARR - American Airlines - Cluster not starting
+ARR | SevA | 2204280040000761 | Job run for more than 9 hrs unexpectedly 
+autoscale
+Cluster terminated.Reason:Container launch failure
+0153 - g - ARR - Starbucks - Broadcast(hint) inner join performance issues
+"7667 - ARR - jnj - Cluster taking very long time to start, and fails after 40 - 60 minutes"
+7677 - g - ARR - jnj - cluster not starting in time
+Photon plan invariant violated
+Library Not Sticking to Cluster
+Cluster autoscaling issue
+Error message “Automated clusters do not support autotermination”.
+"ARR Customer: Helmerich & Payne, Inc. - Databricks Cluster Driver is unhealthy"
+Databricks notebooks running longer - Billing
+Job failing with io.delta.exceptions.MetadataChangedException 
+Photon: SparkNoSuchElementException: Key  does not exist
+Cannot start a cluster 
+2204270030001749 | Streaming job failure
+Nodes Lost Communication
+ARR | 2204110030000436 - cluster starting time is took longer time than usual
+CSS-ARR-2204270030000780-Spark streaming job taking approx. 800 seconds to execute. when 'Full GC' triggerred by the Databricks cluster.
+"Job cluster with credential passthrough fails with error ""Could not find ADLS Gen2 Token"""
+ADB Job Getting Stuck
+Cluster launch failure in DEV environment
+Downtown for changing cluster node type
+Cluster on AWS keep on shutting down
+"need Databricks clarification of the Spark conguration of ""spark.hadoop.fs.abfss.impl.disable.cache"" and the suggestions of any other configurations to optimize the performance of accessing the "
+ADB Job Getting Stuck
+ARR | 2204250060001035 | Error with union command saying object of type 'NoneType' has no len() only in DBR  9.1 LTS
+"Interactive cluster hanging on ""running command"" (take 2)"
+Jobs in Production and QA Databrciks are failing due to timeout error.
+Jobs in Production and QA Databrciks are failing due to timeout error.
+Access S3 using Spark
+"Get stuck at ""running command"" or ""cancelling command"" with DB Web interface"
+PipeLine Run Fails
+Issue canceling a job stuck in pending state
+"Jobs API 2.1 ""/reset"" endpoint doesn't pick up ""runtime_engine"" PHOTON specification"
+Service Fault on Submitted Jobs
+one node in a bad status
+Cluster terminated.Reason:Container launch failure
+Cluster terminated - Bootstrap Timeout
+Observing a lot of delay and intermittent failures when trying to start a Spark Cluster in Databricks
+Unable to start the cluster 
+Run result unavailable: job failed with error message Failed to acquire MySQL lock job-1.
+GPU sharing between spark executors 
+Job failing with error: com.databricks.NotebookExecutionException: FAILED: Failed to acquire MySQL lock job-1.
+Executor nodes not restarting
+"runs failing with ""Failed to acquire MySQL lock job-1"""
+The jobs fail when attempting to distribute this workflow into Worker Nodes
+Autoscaling of job clusters failed
+ Failure starting repl on ADF pipeline job.
+"Structured Streaming stuck as ""Stream Initializing"""
+ARR  = 2202250030001786/ NielsenIQ Coke Mastertrack - Cluster failure
+Job cluster takes more time than interactive cluster
+how to use Generic ID for job creation and execution
+DLT feature
+Job Cluster Notebooks are not visible to users.
+Unable to use NC64as_T4_v3 sport nodes as worker: OverconstrainedAllocationRequest
+ARR | Jobs are failing with dependent library | 2204220060001123 |Shell
+Job failure due to network connectivity
+ Cluster terminated. Reason: Self Bootstrap Failure
+cluster failed to launch
+ We can't upgrade to current runtime version 10.x
+Jobs failed with HTTP 429 - too many requests
+DLT taking 30 minutes to start a triggered run
+ARR - AT&T - 2204220040003095 - Cluster provisioning failures
+ARR:2204200010007619:Connection timed out for ADB job
+OCR cluster taking too long to launch after initiaing the cluster--2204220040005758 
+Repo Notebook fails when using dbutils.notebook.run
+ARR | slow cluster | 2204220040002906
+ Databricks Notebook taking longer time moveing the data from ADLS to ADLS
+ Databricks Notebook taking longer time moveing the data from ADLS to ADLS
+Job API 2.0 Retirement Date
+ARR | throttling leading to cluster creation failure | 2204220060002439
+The cluster is getting terminated automatically
+2204210050003993 Incorrect working directories when executing commands in notebook
+Ganglia UI Issue
+The cluster is getting terminated automatically
+Prometheus jobs-observability metrics
+Not able to view Ganglia on Graviton Instances
+[ARR] [Sev B] SR-2204040030002605 continue to 00141003 | The impact on spark.databricks.hive.metastore.client.pool.size
+2204220060000599 cluster luanch failure
+Query Regarding Photon and Graviton Instance Types
+FollowUP | ARR | 2204140030000156 | The Job in ADF pipeline needed to cancel due to taking longer than expected.
+Assistance required in performance tuning for data ingestion from RDS 
+Cluster lost at least one node. Reason: Communication lost
+IM-ARM AKS (AKS-AUE-P-IM-01) jobs are failing
+training notebook on single node cluster crashes after random intervals of time
+0125 - g - ARR - cibc - Job time out
+9667 - ARR - Albertsons - Clusters not starting with bootstrap errors
+Stepup Dynamo External Source
+How to throw exception in a job running a shell script?
+High Concurrency Cluster Not Terminating
+Job failed with error message Unexpected failure while waiting for the cluster
+Databricks QA jobs triggered by Tidal Scheduler are failing
+2204210060007310 | Cluster scaling issue
+Interactive Cluster auto scaling up issue
+ARR Customer: St Joseph - Job Stuck Running
+Secrets not being redacted in driver log - 2204140010001013
+Secrets not being redacted in driver log 2204140010001013 - 2112120010000141
+Cluster terminated.Reason:Request Throttled
+All scheduled jobs failed this morning & Could not start any all-purpose clusters
+Optimizing geographical join
+Job failed with error message Cluster became unreachable during run
+2204130040009267 | Cluster startup
+2204130040009267 | Cluster startup
+Cluster takes long time to become available to end-users
+JDBC/ODBC Server - Open Sessions for days
+aborted job due to connectivity/memory issues
+ds-etl-dev and rx-experiement-large-driver spark interactive clusters are not able to query the Data Lake Views
+Need help optimizing pandas UDFs for deep learning inference
+Change in data bricks worker type and driver type
+Cluster (10.4) shuts off randomly
+Not able to use Pandas function
+job keeps failing with FetchFailedException  
+cluster launch failures
+Unexpected failure while waiting for the cluster
+we want to understand job concept according to Doc
+[ARR] [Sev B] SR-2204190040005554-Jobs running longer than expected frequently
+Bronze DLT pipeline cancelled
+Job Failure at seemingly random intervals
+Follow-up on 00135798: Job fails when worker nodes on specific SKU
+"""lag() ignore nulls"" broke"
+Cluster taking more time to start-
+Can't see execution plan graph on all-purpose cluster
+"Error in jobs after upgrade from 10.3 to 10.4 LTS, until 2 days ago"
+unable to start jobs clusters
+ARR |  job reported time longer than sum of individual cells | 2204190030002165
+Cluster (10.4) shuts off randomly
+2204130030000434 | ARR | Issue with Cluster Event Logs
+2204190030001595_Cluster unable to accquire additional worker nodes in upscaling
+Issue running transformer model
+ARR | job api limit | 2204190040001460 | Capital Group
+Jobs failing and cluster is being terminated
+Horovod
+Unable to spin up cluster from the workspace 
+job schedule delay for more than 15 minutes
+9667 - g - ARR - Albertsons - Clusters not starting
+[ARR] [Sev B] SR-2204180030001121 Stream delay through optimize with Z-order
+Spark streaming with AWS Glue job takes long time to write data
+Cluster creation taking a long time even then using nodes from pool
+2495 - g - ARR - Cummins - Failed job
+Prod job fails after th ecluster issues
+Long Running job cluster's which are sitting Ideal in more then 600 hours 
+Unexpected Cluster termination
+Job run fails in Prod due to RPC timrout
+ARR Customer Adobe - Access privileges to Jobs API (Read only)
+ARR Customer Air Canada - Databricks job aborted
+Cluster launch is failing and getting successful on retry
+ARR Customer Navy Federal: Issue - Problem Downloading Models from the Spark NLP Library 
+Instance fleet is disabled
+Cluster terminated.Reason:Unexpected launch failure
+Unable to start a cluster
+Latency to trigger jobs
+unable to stat any cliusters
+Prod job fails to start a cluster
+AMI Naming for Spark Clusters
+Jobs failing and cluster is being terminated
+Clusters not starting - Driver error messages in the event logs
+Job Failures in Prod
+Clusters failing to start in production workspace - UNEXPECTED_LAUNCH_FAILURE - SERVICE_FAULT
+Jobs are failing due to ‘Too many connections’ error
+Production clusters wont launch
+Jobs are getting stuck
+ARR - Recover Deleted Cluster
+org.apache.spark.rpc.RpcTimeoutException - Frequent Job Failures - Time out 
+how to invoke jobs api 2.1 from inside a notebook
+Unable to start spark cluster
+Not able to start cluster server
+ARR || AT&T ||  2204010040006385 || SELF_BOOTSTRAP_FAILURE
+Cluster terminating with Inactivity while command in notebook is still running
+"Command Execution Delayed by  """"Uploading Command"""
+Jobs taking too long - performance issue
+ARR | 2204180030000346 | GEP | Job failed intermittently with cluster doesn't exist 
+Python virtual env for all purpose and job clusters
+databricks scala scripts cannot access object store using java module
+Long time for spinning up a cluster
+Job cluster is failing with Unexpected error
+Failure to start cluster workspace authorization request
+Spark 3.2 Unable to access Hive tables with underlying Snappy format
+Job cluster is failing with Unexpected error
+Jobs API timeout
+R Studio Cluster not coming up for the R studio APP
+[ARR] Cluster starting failure
+ARR | Databricks spark ui show completed jobs as active jobs
+Job cluster failed to create 
+Spark in cluster is  down and could not start normally. Please see logs of Run ID 65776 and 65862
+[ARR] SR-2204120030001695 Cluster policies not working as expected for the spark version
+"Can we set  ""spark.databricks.photon.parquetWriter.enabled false"" in cluster policy?"
+"Long run job spark ui show incorrect active jobs status, and IllegalThreadStateException in databricks code"
+One of our migrated jobs is taking 8x more $$ to process than a larger job
+Cluster unusual memory and stuck in bad state
+unable to launch clusters
+Ganglia metrics per day basis
+ARR Customer MyFedEx - I am encountering an error during cluster launch or creation
+[Follow-up 00140889] ARR | Spark down: OutOfMemoryError: unable to create new native thread
+scheduled job failed with error message Error in SQL statement: AzureCredentialNotFoundException: Could not find ADLS Gen2 Token
+ARR | 2204140030000156 | The Job in ADF pipeline needed to cancel due to taking longer than expected. 
+Commit File Not Generated Upon Job Failure
+[ARR] [Sev A] SR-2204130040012512  Scheduled jobs are taking more than usual times. Jobs which used to take minutes took hours or running for forever.
+Cluster terminating reason - unexpected launch failure
+"6540 - ARR - American Airlines - Stuck job, cancelled after 168 hrs"
+0654 - g - ARR - AA - Long running job
+Driver node shut down by cloud provider
+Facing memory issue while performing ETL using Spark scripts
+write error in job cluster
+Job clusters failing to start up
+Cluster Launch Failure
+ARR | Job cluster error: SPARK_IMAGE_DOWNLOAD_FAILURE
+Jobs failing with cluster time-out issue
+[ARR] SR-2204120030001695 Cluster policies not working as expected
+scheduled job failed with error message Error in SQL statement: AzureCredentialNotFoundException: Could not find ADLS Gen2 Token
+Follow up (00138540) Performance issues.
+Job Cluster Notebooks are not visible to users
+[ARR] [Sev B] SR-2204120030002012  job failing due to ExecutorLostFailure (executor 10 exited caused by one of the running tasks) Reason: Remote RPC client disassociated
+Job Stuck at Simple read Command
+Job cluster did not shut down
+Jobs taking too long - performance issue
+Issue with executors
+Executor Lost for one job
+jobs hang or fail after upgrading to runtime 10.4 
+How to collect Spark worker logs?
+How to update Job to auto-az
+Preventing long running jobs on High Concurrency Interactive clusters
+"A job that typically runs for 6 minutes only, ran for 58 hours this time"
+Cluster Termination and Autoscaling
+Graviton instances not working
+Jobs failing with cluster time-out issue
+spark security overhead impacting performance
+Issue with Cluster scoped init scripts
+Libraries are not properly uninstalled from clusters
+Spark Expert Assistance with Pandas UDF implementation
+ARR | 2204080030000725 | API to attach notebook to cluster
+We are observing a lot of delay and intermittent failures when trying to start a Spark Cluster in our Databricks
+Cosmos to BLOB streaming job is not working properly in spark3 whereas it is working fine in spark2 codebase
+[ARR] [Sev B] SR-2204070010002917   continue to 00141203 how to execute the mounted file for job cluster
+debugfs on worker nodes not owned by root
+Unable to Vectorize Pyspark operation using Pandaf_UDF. Facing Performance Issues
+strange UI in job list
+Setting job description in spark UI not working
+ARR: Jobs are failing intermittently:SR 2204070040000867 
+unusable since the driver is unhealthy
+Pipelines failing post DLT GA
+Cosmos to BLOB streaming job is not working properly in spark3 whereas it is working fine in spark2 codebase
+Production Job Stuck in running status indefinitely
+can not load the Cluster in workspace
+Not able to start any cluster (Intermittent Issue)
+[ARR] [Sev B] SR-2204080030001854 - ExecutorLostFailure (executor 15 exited caused by one of the running tasks) Reason: Executor heartbeat timed out after 157195 ms
+[ARR][Jobs are running for long]
+Customer is facing throtling issue and production jobs got halted
+Unable to use installed wheel cluster library
+ARR - Adobe - 2204080010004175 - Increase jobs REST API data retention limits
+Photon Failing To Write Out Table After Several Retries
+Health check was not dispatched to the driver within 900 seconds
+Cloud provider failures during cluster creation East US2
+ARR |  NielsenIQ Coke Mastertrack - Cluster failure
+ARR Customer JNJ: Ganglia UI is not working & Metrics are not accessible.
+Change in data bricks worker type and driver type
+ Please help me to get the Ganglia UI report images to dig into the detailed cluster report
+Job failing with library error | 2204070030001149 |  Cummins
+Not able to start cluster server
+Updating cluster to select AZ automatically.
+ARR | 2204070010002917 | Does NotebookTask in Job API support ADLS paths?
+job cluster hanging in running states.
+What is the expected accuracy and precision of time services within NTP service
+Cluster not launching
+ARR| RCA for intermittent errors in production environment - 2203210010002555
+Max request rate for EC2 causing job failure
+Unusual Exit Status
+2204070030000778 | Streaming job failure
+Issues identifying origin of long running processes 
+ARR:Cluster usage went down and jobs got delayed and failed on around 04/06/2022 10:02:00 UTC.:SR2204060040007331
+All Clusters in Dev Environment Suddenly Failing with Bootstrap Timeouts
+Jobs are not getting canceled
+Cluster very very slow
+Job Clusters do not terminate
+Not able to start cluster
+Feature Extraction has become slower
+Jobs failing with library not being installed on clusters
+CSS ARR | 2203230030001649 - ADF pipeline job is failing in CART-ADF-Prod
+Unable to install tensorflow library on graviton cluster
+how to grant job permission to runs submitted by API
+CSS-ARR-SFMC-2204070030000778-RU is increasing in GR from yesterday night in streming job
+ARR | Cluster is in pending state forever | 2204070050000281 | UHG 
+unable to run job cluster when attaching a notebook to it.
+"Access to non-admins to ""Create and trigger a one-time run"""
+Execution of 2 Jars on same cluster sequential with same prod.conf
+Unable to stream data from google pub sub using spark 3
+Job Clusters Not Auto Scaling Properly
+" we have a chaduled job on 13th of eacvh month, but the run did not fire on March 13 2022"
+ARR: Sev A:Streaming Jobs are stuck:SR 2204060040007641 
+"""Bad Request” error message when trying to access the Ganglia UI Live Metrics through UI"
+Streaming Executors are getting stuck and die
+need to verify debugfs mounted in job cluster and reduce the logs
+Cluster did not timeout after being unable to aqquire executors
+Spot fall back to On-demand Option on Job Cluster
+[ARR] [Sev C] SR-2204060030000215 the reason why Job Alert mail did not work
+Not able to start cluster server
+[ARR] SR#2204050040010569-Please help me to get the Ganglia UI report images to dig into the detailed cluster report
+Python Pandas generates com.databricks.rpc.RPCResponseTooLarge error
+Need help with jobs api submiting job type as python
+Spark Pandas API performance issues
+Failed/successful job on two clusters
+Jobs failing with Netty OOM in E2 but they are passing in PVC
+unable to update jobs with modified cluster policies without deleting and recreating jobs
+Job cluster unable to retrieve information of a table with data from dbfs location
+Getting RPC Response Too Large Issue
+Unable to launch cluster
+"spark.conf.set(""spark.databricks.io.cache.enabled"", True) not working"
+[EXTERNAL] RE: Access from Synapse Spark Pool to On-Prem Oracl... - TrackingID#2203010060001556
+ARR |  Data issue on enabling Photon
+ARR - atabricks NoteBook Issues with Photon in Runtime 10.4 LTS
+2204010050001066 | Fuse Error
+Unable to start a cluster
+Need to figure out job cluster and its corresponding EC2 instances id  
+ Init script executed twice when starting the cluster
+jobs take longer than expected
+Cluster terminated.Reason:Communication lost
+Cannot use OpenAPI spec yaml from Job API in Swagger Editor.
+tagging jobs
+Production jobs are failing due to Connection Timedout to Databricks
+All the job clusters are not starting and failing with INIT_SCRIPT_FAILURE
+All the job clusters are not starting and failing with INIT_SCRIPT_FAILURE
+ARR - Cummins - 2203310030003446 - Job hung from 5 months
+ARR || AT&T || 2204010040006385 || RCA for cluster terminated due to self bootstrap failure
+Job Failed with Timeout error:
+ Job run longer and manually terminated the cluster
+Create cluster ends as terminated
+Kinesis streaming job failed yesterday
+2204010050002104 | Cluster quota
+Job outage on March 31
+Job is running forever
+Could not reach driver of cluster 1118-054402-skid528 for 120 seconds.;
+ARR - Job in production taking 5 hours 
+CSS-ARR-SR#2204010030001753-We are unable to run commands on the cluster TDL-DP-DWH-001
+Job parameters start_time and previous_run_start_time
+stream process fail on missing file
+acris_listener_job failed
+ Getting RPCResponseTooLarge Issue
+Getting RPCResponseTooLarge Issue
+Cluster takes long time to become available to end-users
+Job clusters remain active but unreachable after marking terminated
+Unable to connect to any clusters in workspace 
+Cluster not able to autoscale
+Clusters are holding too many connections
+Clusters are holding too many connections
+Large dataset join failing after 15 hours
+Difference in JSON response of get job API and that visible in UI (both UI and json view) for jobs having instance pools
+ARR - AT&T - 2202230040008781 - executor failure
+One of the ETL continiously failing with broadcast join
+Jobs failing with library not being installed on clusters
+ARR - AT&T - 2203290040006483 - Transformation jobs needed bigger clusters.. Need analysis
+horovod distributed training 
+Cluster terminates due to inactivity during training 
+Multi task jobs with more than 100 tasks
+ARR 2203290050001662 - Cluster gets up and terminated immediately after
+ REST API connectivity Issues from ADB Notebook
+[ARR] Read and write into ADLS gen1  from spark failures
+Cost analysis is associating VMs to wrong clusters
+streaming job active but not  picking up and processing new files
+CSS-ARR-SFMC-2203310030001247-Job are running for long 
+Communication lost with driver
+ETL Job Fail
+Jobs are failing for this data bricks very frequestly even after increasing the CPU 
+job fails with worker heartbeat timeouts
+QUOTA_EXCEEDED error in production
+Init script executed twice when starting cluster
+Undetailed error when processing data in notebook using Python
+Cluster is not able to launch
+"ExecutorLostFailure, Reason: Remote RPC client disassociated"
+Feature Request: Job retry button
+Streaming job stop to work
+want to know where I can use photon to query
+follow up -00120338-  Streaming Jobs Failed with Error 
+trt
+Production  job failure due to RuntimeException
+getContext jobTriggerType equals to manual when using ulti tasks job
+ARR | Issue with steaming job | 2203300030001221 | TATA DIGITAL
+Databricks Clusters failing to start with message Cannot find releaseKey from sparkVersions 
+"Cannot find releaseKey from sparkVersions List(SparkVersion(12.x-snapshot-aarch64-photon-scala2.12,12.x Snaps..."
+Cluster in not visible in the job list
+SELF_BOOTSTRAP_FAILURE(SUCCESS)
+ Cannot find releaseKey from sparkVersions
+unable to start job cluster
+Job clusters fail to start
+Spark Structured Streaming Input & Processing Graph stuck at 0 records / second for both input and processing
+"RCA required on the ""orphaned"" cluster node"
+clusters are too slow or even unavailable 
+Issue with databricks-connect spark-3.1.1 SNAPSHOT jars
+High Concurrency cluster deprecated
+Clusters taking a long time to start/stop
+2203290030003731 | cluster not starting
+"Failed to resolve multi-task state, please try again"
+Driver logs Error check your cluster UI to ensure that workers are registered and have sufficient resources.
+"Cluster Unstability, Driver Unhealthy"
+Pipeline failed with error 'Path not found' and await time crossed
+ The Cluster terminates every time I try to start it. I've tried different configurations and they all fail.
+"Misaligned ""Parameters"" in Job UI"
+Jobs in Production and QA Databrciks are failing due to timeout error
+Non-Scaling JOb Cluster
+How to ensure job clusters scale as pool resources become available
+getContext jobTriggerType equals to manual when using multi tasks job
+Job failing due to shuffle fetch failed exception | ARR SR# 2203280040004004
+ Facing issues in cluster mcbcnadevdbwengg01 – library failing to load
+Streaming Job Cluster Failure
+Cluster became unreachable during run
+"ARR:Hit error (file not found) using High Concurrency cluster, but works fine with pass through cluster:SR 2203280030003944"
+"ARR:Hit error (file not found) using High Concurrency cluster, but works fine with pass through cluster: SR 2203280030003944"
+Run result unavailable: job failed with error message An upstream task failed.
+ARR | Databricks Runtime 10.4 LTS Photon giving an error of “UnsupportedOperationException: datatype” |  2203240050002278 
+Streams Taking a lot of time to resume
+Executor Time-out; Much Longer Job Run Times for Multiple Tasks
+2203160010002405 | Job Slowness
+Run result unavailable: job failed with error message Unexpected failure while waiting for the cluster
+Run result unavailable: job failed with error message Unexpected failure while waiting for the cluster
+2203260040000072 cluster takes 1 hour to start
+Databrick Notebooks Haging for Long Periods of Time- Saved
+Loading spark in MLFlow Project
+Unable to run job even when pool has idle instances
+job fails with TProtocolException
+The Cluster terminates every time I try to start it. I've tried different configurations and they all fail.- Saved
+I thought this join would be super efficient and fast - but why so long
+[ARR][Cluster Failure Error]
+Explore options to reduce job run time
+6899 - g - ARR - anheuser-busch - failed job
+Failures of scheduled jobs: Unable to start or continue the running clusters. Inconsistent
+ARR |  NielsenIQ Coke Mastertrack - Cluster failure
+Thread starvation or clock leap detected ERROR in Prod
+ARR 2203250050000227 - Jobs failed with Your requested upsize of 0 nodes exceeds the max upsize load of 3000.
+Spark Optimization
+Job failure - Connection Reset error
+ARR | 2203030010001180 | The streaming job failed due to Not able to validate external location because The remote server returned an error: (503)
+Streaming Jobs Failed with Error
+ExecutorLostFailure (executor 3 exited caused by one of the running tasks) Reason: Remote RPC client disassociated
+[ARR][Streaming job failed multiple times]
+"Cluster status not right, job hang"
+Job id suddenly change to a very large value
+Code optimisation for slow jobs
+Running a dashboard with CLI
+Jobs Failing in Prod
+0116 - ARR - t-mobile - Unexpected results when using Cluster policies
+How to assign default cluster policy to a user or group
+Having issues spinning up a cluster on a new E2 workspace
+ARR - 2203230010002982 - American Airlines - Data differences between systems
+Jobs failed after multiple resizings and retries
+"Remote RPC client disassociated. Likely due to containers exceeding thresholds, or network issues"
+Remote RPC client disassociated
+Request feedback on a long Running Prod Job 
+[ARR][Spark Streaming For each batch join]
+Jobs hangs randomly - Driver - Executor registration failure.
+"custom_tags ""unlimited"" - Job clusters policy"
+"when the cluster is getting restart, 1 node is getting skipped due to slow node"
+Job in E2 is taking much longer compared to run in PVC
+Cluster sat at high utilization for several hours with light load
+Sparklyr and createOrReplaceTempView
+Libraries are not properly uninstalled from clusters on v9.x and 10.x
+There is a pipeline on ADF which has databricks notebooks that used to run for 6 hours now for even a
+There is a pipeline on ADF which has databricks notebooks that used to run for 6 hours now for even a 
+uninstalled libraries continue to be installed on cluster startup
+Not able to start a cluster in ml-us-dev workspace
+Cluster start issues in new workpace
+Cluster regularly fails due to Spark exception received from driver. Driver down
+Command stuck on levi-dsp-preprod -  No alive workers
+Rerouting cluster logs to adls gen2
+ARR | 2203150040006011 | mlflow.xgboost.load(xgboost model) returned __init__() got an unexpected keyword argument 'tensor-spec' error
+We can't upgrade to current runtime version 10.x
+We can't upgrade to current runtime version 10.x
+How to enable custom logging on worker to s3 bucket
+Jobs failing - Time out
+idempotency_token not behaving as described in Jobs 2.0 API Docs
+increase job limit 
+Ganglia UI is somewhat broken
+SELF_BOOTSTRAP_FAILURE(SUCCESS)
+Single Node Cluster not starting
+Photon ran out of memory error while switching from DBFS to ADLS
+Cluster won't staring up affecting prod jobs
+ARR 2203140050000737 - Unable to run job from ADF into cluster
+Streaming cluster execution failed
+Jobs in Production and QA Databrciks are failing due to timeout error.
+Streaming from shallow clone makes spark fail
+Failed to update InstanceProfile while job cluster creating
+CSS-SR# 2203210030000844-Not able to view driver logs/Spark UI/Ganglia Metrics for ML Flow Cluster
+Runtime crashes unexpectedly and without explanation
+9084 - ARR - Inspire Brands - .cache() not working as expected
+2203180040005130  Autoscaling removed the node leads to execution failure
+ARR | 2203220040000035 | java.lang.OutOfMemoryError even though increasing the cluster size
+Driver logs Error check your cluster UI to ensure that workers are registered and have sufficient resources.
+ARR | 2203220040000035 | java.lang.OutOfMemoryError even though increasing the cluster size
+ARR | 2203220040000035 | java.lang.OutOfMemoryError even though increasing the cluster size
+Python Notebook Exceptions not Showing
+"In-continue to 00128562, Autoloader takes 22 means to start the first batch"
+1866 - ARR - Safeway - Failed job
+CTAS statements running  pretty slowly
+Cluster terminated.Reason:Cloud provider launch failure
+job permissions
+service down
+Cluster not available while running the jobs
+VPC Flow Log - ETL - Optimized write takes more than 16 min
+Getting error while trying to start the cluster : Instance was not reachable.
+2203160010002405 | Job Slowness
+Connect to SalesForce 
+ARR SevA: Issue with Fraud detection job's performance
+ARR-[REG:2203140030001959]Unable to start any cluster
+2203210030000474 | ARR | Delta schema is not updating properly for Json | Hiveloop Technology Private Limited
+Job completed but hung
+Job run issue fails with large dataframe
+ 2203190030000090 -  GA - Databricks Notebooks are failing with Job aborted issue 'org.apache.spark.SparkException: Job aborted'
+Unable to launch cluster
+ExecutorLostFailure: Remote RPC Client Disassociated
+"ARR:Getting slow data transfer rate in March 2022, compare with Jan/Feb 2022:SR2203170040006912 "
+ARR | Cluster failed due to driver unhealthy error - 2203150040007744
+EULA expired
+job that usually takes minutes to run got stuck for more than one day
+ARR | Cluster failed due to driver unhealthy error | 2203150040007744
+Error : node stack overflow
+Intermittent error with create or replace
+ADLS Error Faced in UDPCHI Production Job
+ Rerouting cluster logs to adls gen2
+Error breaking out streaming job
+ARR | 2203170040005277 | Bootstrap timeout in EastUS2 in 2 subscriptions of AT&T
+All purpose cluster hangs when mutiple jobs are submitted against the cluster
+Photon ran out of memory error while switching from DBFS to ADLS
+Drastic Execution Time Increase when upgrading 10.1 -> 10.3 DBRuntime
+Preventing creation of _started and _committed files
+2203170040005277 | Cluster Failure
+how to add a spark conf for all clusters in my workspace
+Databricks Job failure due to “org.apache.spark.SparkException: Job aborted” occasionally
+Streaming the Eventhub data is verysloe and not producing any results
+Availability of Graviton R6g instances
+ Need to increase quota
+Multiple jobs stuck in pending state
+0378 - g - ARR - CrediCorp - Job failing
+frequent scale-up and down
+Driver issue
+"Spark Streaming with SASL_SSL, failed with keystore location not found"
+"Grouped pandas udf job is getting executed on a single executor, parallelisation is not happening"
+"cluster created have spark.master as local[*] by default, preventing worker utilization"
+Deleted Cluster
+Error creating UDTF with union
+Cluster terminated: Slow Image Download &  Bootstrap Timeout
+Job fails without error message in logs
+Termination of the cluster not responsive
+Inconsistencies with Spark jobs run on similar clusters
+Unable to read data from views created on presto
+Unable to save a spark model using mlflow.spark.log_model
+Root Volume Setting on Instance Termination
+Cannot open worker logs
+job failed with error message Unexpected failure while waiting for the cluster
+Unable to run long jobs using pyspark due to expiring crendentials 
+Batch duration changes in DBR 9.1 version
+support for resuming multi-task job at failure
+Scheduled jobs are failing while waiting for the cluster
+Job cluster access issue
+Can't queue up jobs
+Cluster Slowness
+3121 - g - ARR - GAP - Jobs not ending
+Spark2 cluster with terraform not working
+"3121 - ARR - GAP - Some jobs are complete; however, they are still ""running"" and keeping resources."
+ARR:Unable to use defaultvalue in the cluster policy definition as per doc:SR2203100040006979
+Cluster Taking longer time to start
+"Job failing with ""The transaction log has failed integrity checks"""
+Certain queries fail over an ODBC connection tied to a long running all purpose compute cluster
+"Job is running for longer, still executing post updating the DBR version Photon 10.0"
+Unable to view ganglia on Jobs Clusters
+Downloading the spark container on the instance timed out
+Cluster Taking longer time to start
+General Clusters Deleting itself 
+"Metrics data of jobs, clusters and sqlendpoints"
+Streaming jobs needs to delete the states
+ARR | 2203110050000101 | Batch ingestion failure because of cluster timeout
+com.springml.spark.salesforce
+"Remote RPC client disassociated. Likely due to containers exceeding thresholds, or network issues. Check driver logs for WARN messages"
+Libraries present on the notebook cluster fail to install when they try to create a new cluster with the same
+Multiple production jobs failing . Cluster 0313-090628-warrkk68 is unusable since the driver is unhealthy
+"Follow up case: 00134030. Driver was getting out of memory. The Ganglia UI showed an increase in memory, after running the job for certain days."
+ARR- pipeline is running slow- 2111100060003775- Followup of 00121792
+Redash instances 
+ARR:Unable to use defaultvalue in the cluster policy definition as per documentation:SR 2203100040006979 
+ARR:Unable to use defaultvalue in the cluster policy definition as per doc:SR2203100040006979 
+Cluster Taking longer time to start
+Issue activating conda
+ARR - SAP - 2202090010002961 - Streaming history is not available on jobs
+Folium stopped working
+Issue with MAVEN Jars installing in job cluster
+[ARR] [Sev B] SR-2203020030002269 DBR issue regarding performance
+Cluster terminated.Reason:Unexpected launch failure
+ARR | need to get permanentDelete log for the specific cluster IDs | 2201280060000162
+Clusters taking time to spin up & running slow
+"Many jobs failing with ""unusable since the driver is unhealthy"""
+CSS-SFMC-2202280030000859-SparkOutOfMemoryError Issue
+All jobs jobs stuck in pending state for more than 48 minutes 
+Jobs failing in our production enviornment due to cluster issues
+Parallelizing Python XGB code using Pandas UDF
+Shell| MCDR Data loads| Slow Running Job Runs
+"ARR Customer: Air Canada - Cache command not working in Databricks 9.1 LTS (includes Apache Spark 3.1.2, Scala 2.12)"
+ARR 2203100040005518 - Photon - Error Spark Query Fail 2.7T Rows
+Notebook Detach Error from Generic Cluster
+Job run with javax.net.ssl.SSLException: Tag mismatch message
+2203070050001068 On cluster large amount of libraries started reinstalling at the same time
+Streaming cluster execution failed 
+Node communication lost errors and severe performance issues
+job-cluster-config-change-does-not-take-affect
+"Cluster ""etl_Cluster"" was reboot at 2022-3-6 0:05:32 UTC"
+[ARR][2203100030000155][Cluster Driver shuts down in a middle of ADF job run]
+JOb CLuster launch failure
+9274 - ARR - Alaska Airlines - All jobs failing in this workspace for about an hour. Cannot create clusters.
+How do we simulate run_id int64 change impact before 3/12
+How to get a job run_id from within the job?
+Error of Invalid token when access using Job API
+/2.1/jobs/run-now endpoint returning terminated job run with specified idempotency token
+ARR - Adobe - 2202230010001928 - Cluster failure due to throttling
+List all jobs return maximum 25 jobs
+Issue Created Cluster in New Workspace
+Spark streaming submitted with 300 seconds batch interval is not working as expected and by default it takes 1 second | ARR SR# 2203080040001036
+deleted cluster
+"Driver is up but is not responsive, likely due to GC"
+DAG jobs getting failed due to cluster issue
+Photon Engine doesn't support timezone change or gzip
+ Jobs taking longer than usual on USC- 2202080010002833 
+Can't start cluster with our jar (which works on other instances)
+The batch ingestion tasks are stuck or very slow when running on DBR 10.3
+Pipeline is cancelling
+Unable to start cluster 
+Inconsistent output in different executions 
+Autoscaling Failure on Interactive Clusters
+Picking Up New Runtime version on Job Cluster
+ARR | 2202210030002531 | java.lang.OutOfMemoryError: Java heap space
+ Remote RPC client disassociated
+There is a pipeline on ADF which has databricks notebooks that used to run for 6 hours now for even a 
+ARR 2203080040000533 job cluster launch failure
+Cluster got deleted
+Unable to access Job / Lost permissions overnight
+3121 - g - ARR - GAP - Job not finishing after all tasks complete
+DBR 9.1 - Losing 50% of executors in 1 hour
+2203070030002493 | Cluster
+Job Cluster is take too much time to start
+Remote RPC client disassociated
+Aggressive autoscaling removing then immediately adding nodes
+unable to start a cluster in newly deployed cluster
+"Spark Streaming not ""streaming"", instead it is reading all data at once"
+"A streaming job failed with ""could not verify copy source"""
+Multiple Databricks jobs are failing in a Production Workspace - Spark Exception & Timed Out
+IllegalStateException while runnig Databricks Prod Jobs
+ExecutorLostFailure - spark specialist wanted to investigate jar job causing OutOfMemory
+Iinteractive clusters suddenly lost spark.databricks.clusterUsageTags.clusterWorkers  tag:
+Inconsistent ETL Job Behaviour after upgradation to 7.3 LTS
+Trouble Calling Java Class from Scala Code
+What cluster manager types on Spark on Databricks
+ Multiple Databricks jobs are failing in a Production Workspace - Spark Exception & Timed Out
+We can't upgrade to current runtime version 10.x
+Job run history does not show who executed the job
+Job failed JVM failure (possibly GC?)
+ARR - Jobs Runs list API parameters not working as expected - 2203040010000722
+R libraries failing for clusters
+Job failed with error message Unexpected infra fault while creating the cluster 
+Slow runtimes for jobs with many DDL changes
+Streaming Hangs
+Job failing with Unknown host exception
+Cluster start issue throwing bootstrap timeout error
+Unable to use certain packages in Graviton based instances
+Search on job page stop searching by parameters of active runs
+Need help on optimising of spark job with range join
+ARR | different results when running streaming and batch jobs | 2202250050001792 
+Hourly job failed with 'path does not exists' error although the path was actually present in storage | ARR SR # 2203020030002029
+INTERNAL_ERROR when starting job clusters
+Installing libraries in the cluster makes notebooks hung.
+Failure in launching Job cluster
+All jobs failed around 6pm MST
+user cancelled jobs are returning ActionName as ‘runFailed’
+cannot start job cluster on runtime 7.3
+Getting sparkVersions error with 7.3 LTS
+Inconsistent output in different executions 
+job failures due to Unexpected infra fault while creating the cluster for the job
+Production Job cluster wont launch 
+all jobs failed with error of Cannot find releaseKey from sparkVersions List(SparkVersion(10.4.x-aarch64-photon-scala2.12
+Unexpected infra fault while creating the cluster for the job
+"ARR | Notebook java exception occurred while calling o3500.save, Job aborted due to stage failure | 2202210040004424"
+"ARR Customer: AT&T - Notebooks not executing on cluster, commands abruptly canceled. "
+Job IDs have different scale and are no longer sequential
+ARR - AmericanAirlines - 2203020010003431 - Job failure with metadata.HiveException
+Slow cluster performance 
+Increase the performance of a Streaming Job
+[URGENT] Shard become very slow
+Cluster terminated.Reason:Spark error
+Cluster Deletion before 30 days of inactivity
+Problem of Parallel Model Registering
+job cluster config change does not take affect
+ARR | 2203020060001019 | The job failed intermittently due to ModuleNotFoundError though the library is installed
+Cluster terminated by init script failure
+0055 - ARR - ATT - Streaming job failed last night. Looking for RCA
+user cancelled jobs are returning ActionName as ‘runFailed
+0055 - g - ARR - ATT - Streaming job failed
+PROD DBKS job running long and not succeeded
+PROD DBKS job running long and not succeeded
+9592 - g - ARR - meijer - Streaming job failure
+Limiting number of commits from job
+Cluster startup boostrap timeout with DNS change
+Performance Issues possible related to applyInPandas and .cache
+Unable to start new job or interactive clusters
+[ACTION REQUIRED] JobId non-sequential identifier
+2112160050001503 filter fields saved in log analytics using spark monitoring lbrary
+move to other subscription
+Jump in Job ID order
+ARR 2203020050001288 - Customer needs to increase job performance
+Scheduled Jobs got hanged on weekend - 26th Feb 2022
+Kinesis connector timestamp problem
+About  Jobs service stability and scalability improvements
+Streaming cluster execution failed 
+1183 - g - ARR - Costco - Clusters not starting
+"DBR Job hangs, connectivity exceptions in the executors error log"
+"Driver is up but is not responsive, likely due to GC;Spark exception received from driver. Driver down;"
+need support for optimization of spark joins
+Unable To Launch Cluster
+Broadcast join's are not effecient on the job
+2202240040006086|DukeEnergy|Cluster deletion
+job cluster config change does not take affect
+Remote RPC client disassociated
+ARR | 2202280060001228 | RCA | Job that was triggered by Data Factory failed due to cluster inactivity  
